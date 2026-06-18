@@ -2,7 +2,7 @@
 ## Meu nome é Enzo Coelho
 Sobre mim:
 - 🔭 Sou um estudante de Engenharia de Computação;
-- ⚡ Procurando **oportunidades de estágio** para que possa desenvolver projetos;
+- ⚡ Estagiário de TI;
 - 😄 Como estudante de Engenharia de Computação, sou fascinado pela capacidade da tecnologia em resolver problemas e criar soluções inovadoras. Estou sempre em busca de novos desafios e oportunidades para aprender e aplicar meus conhecimentos em projetos práticos.
 
 
